@@ -81,14 +81,17 @@ Model performance:
 
 ## Example Visualizations
 
-### Salary vs Model Estimate
+### Salary vs Model Estimate - Big Ten
 ![Salary vs Model](./2026_Model_vs_Actual_Salaries_Big_Ten.png)
 
-### Quadrant Analysis
-![Quadrant Chart](./2026_BigTen_Quadrant_Plot.png)
+### Top 10 Coaches by Predicted Salary - All Time
+![Top10 Coaches](./Top10_Coaches_by_2026_Model_Salary.png)
 
-### Salary Growth Trends
+### Salary Growth Trends - Big Ten
 ![Salary Trends](./Visualized_Contract_Changes_Big_Ten.png)
+
+### Quadrant Analysis - Big Ten
+![Quadrant Chart](./2026_BigTen_Quadrant_Plot.png)
 
 ---
 
