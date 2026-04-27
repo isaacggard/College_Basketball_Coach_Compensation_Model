@@ -20,7 +20,7 @@ The system integrates historical performance data, salary records, and financial
 
 ## Core Question
 
-> What is a coach’s fair market salary given their performance and context?
+**What is a coach’s fair market salary given their performance and context?**
 
 ---
 
