@@ -90,9 +90,6 @@ Model performance:
 ### Salary Growth Trends
 ![Salary Trends](./Visualized_Contract_Changes_Big_Ten.png)
 
-### Salary Growth Trends
-![Salary vs Win %](./Salary_vs_Win%_National.png)
-
 ---
 
 ## Key Findings
